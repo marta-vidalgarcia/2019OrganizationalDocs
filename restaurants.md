@@ -1,1 +1,3 @@
-# Restaurant options
+# Restaurant option
+
+MVG: Sayle's, but it seems that it is only take-away...
